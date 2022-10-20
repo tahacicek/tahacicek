@@ -32,6 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahacicek&show_icons=true&locale=en" alt="tahacicek" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tahacicek&" alt="tahacicek" /></p>
-![GitHub metrics](https://metrics.lecoq.io/tahacicek)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahacicek&" alt="tahacicek" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/tahacicek)  
+
 
