@@ -1,12 +1,14 @@
-<h2 align="center">About me</h2>
+<h2 align="center">About me <img height="40" src="https://tahacicek.net/customer/images/logo.png"  />
+</h2>
 
 ###
 
-<img align="right" height="50" src="https://tahacicek.net/customer/images/logo.png"  />
 
 ###
 
-<p align="center">My name is Taha and I'm a software developer, from Turkey</p>
+<p align="center">My name is Taha and I'm a software developer, from Turkey 
+
+</p>
 
 ###
 
