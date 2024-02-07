@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tahacicek/tahacicek/output/snake.svg" alt="Snake animation" />
-
-###
